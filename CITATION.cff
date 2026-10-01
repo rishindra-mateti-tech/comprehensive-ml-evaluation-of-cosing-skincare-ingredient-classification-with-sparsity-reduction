@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the repository and its accompanying project paper."
+title: "A Comprehensive Evaluation of Machine Learning Models for CosIng Skincare Ingredient Classification with Class Sparsity Reduction"
+type: software
+authors:
+  - family-names: Mateti
+    given-names: Rishindra
+  - family-names: Thota
+    given-names: Surya
+  - family-names: Kancharla
+    given-names: Tejaswi Reddy
+abstract: "Reproducible artifacts for multi-label classification of cosmetic ingredient functions using CosIng metadata and class-sparsity reduction."
